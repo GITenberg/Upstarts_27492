@@ -1,0 +1,44 @@
+_repo: Upstarts_27492
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dillon, Leo
+    birthdate: &id001 1933
+    deathdate: 2012
+    gutenberg_agent_id: '32728'
+    url: http://www.gutenberg.org/2009/agents/32728
+  - agent_name: Dillon, Diane
+    alias: Dillon, Diane Claire Sorber
+    birthdate: *id001
+    gutenberg_agent_id: '32729'
+    url: http://www.gutenberg.org/2009/agents/32729
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stecher, L. J., Jr.
+    aliases:
+    - Stecher, Lewis J., Jr.
+    - Wesley, Joseph
+    - Stecher, L. J.
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '32723'
+    url: http://www.gutenberg.org/2009/agents/32723
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Upstarts
+url: http://www.gutenberg.org/ebooks/27492
